@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="EUC-KR"?>
+<!-- edited with XMLSPY v2004 rel. 2 U (http://www.xmlspy.com) by Kim Sangbok (IMCGames Co., Ltd) -->
+<idspace id="badname">
+	<Class ClassID="1" ClassName="%."/>
+	<Class ClassID="2" ClassName="%c"/>
+	<Class ClassID="3" ClassName="%C"/>
+	<Class ClassID="4" ClassName="%d"/>
+	<Class ClassID="5" ClassName="%F"/>
+	<Class ClassID="6" ClassName="%h"/>
+	<Class ClassID="7" ClassName="%H"/>
+	<Class ClassID="8" ClassName="%m"/>
+	<Class ClassID="9" ClassName="%M"/>
+	<Class ClassID="10" ClassName="%s"/>
+	<Class ClassID="11" ClassName="%S"/>
+	<Class ClassID="12" ClassName="%t"/>
+	<Class ClassID="13" ClassName="%T"/>
+	<Class ClassID="14" ClassName="%x"/>
+	<Class ClassID="15" ClassName="%X"/>
+	<Class ClassID="19" ClassName="\'"/>
+	<Class ClassID="20" ClassName="\*"/>
+	<Class ClassID="21" ClassName="\\"/>
+	<Class ClassID="22" ClassName="\a"/>
+	<Class ClassID="23" ClassName="\b"/>
+	<Class ClassID="24" ClassName="\f"/>
+	<Class ClassID="25" ClassName="\n"/>
+	<Class ClassID="26" ClassName="\N"/>
+	<Class ClassID="27" ClassName="\t"/>
+	<Class ClassID="28" ClassName="\v"/>
+	<Class ClassID="29" ClassName="faggot"/>
+	<Class ClassID="30" ClassName="chink"/>
+	<Class ClassID="31" ClassName="nigger"/>
+	<Class ClassID="32" ClassName="nigga"/>
+	<Class ClassID="33" ClassName="fag"/>
+	<Class ClassID="34" ClassName="FAGGOT"/>
+	<Class ClassID="35" ClassName="NIGGER"/>
+	<Class ClassID="36" ClassName="CHINK"/>
+	<Class ClassID="37" ClassName="jap"/>
+	<Class ClassID="38" ClassName="JAP"/>	
+</idspace>
