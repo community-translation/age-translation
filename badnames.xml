@@ -36,4 +36,5 @@
 	<Class ClassID="36" ClassName="CHINK"/>
 	<Class ClassID="37" ClassName="jap"/>
 	<Class ClassID="38" ClassName="JAP"/>	
+	<Class ClassID="39" ClassName="SB"/>		
 </idspace>
