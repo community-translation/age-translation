@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<languageset currentset="Chinese">
+<languageset currentset="Taiwanese">
 	<language set="Korean" codepage="949" charset="129">
 		<supportIME name="default.ime"/>
 		<supportIME name="imekr70.ime"/>
